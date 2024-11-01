@@ -1,4 +1,12 @@
 {
+    //  Extensión de indentRainbow
+    "indentRainbow.indicatorStyle": "light",
+    "indentRainbow.lightIndicatorStyleLineWidth": 2,
+    "indentRainbow.colors": [
+        "rgba(255,255,64,0.07)",
+        "rgba(255,127,255,0.07)",
+        "rgba(79,236,236,0.07)"
+    ],
     "editor.formatOnSave": true,
     "editor.guides.indentation": false,
     "terminal.external.linuxExec": "konsole",
@@ -33,13 +41,5 @@
     //Tema
     "workbench.colorTheme": "Atom One Dark",
     //para que la extension de autocorreción detecte el idioma español 
-    "cSpell.language": "es",
-    //  Extensión de indentRainbow
-    "indentRainbow.indicatorStyle": "light",
-    "indentRainbow.lightIndicatorStyleLineWidth": 1.7,
-    "indentRainbow.colors": [
-        "rgba(255,255,64,0.07)",
-        "rgba(255,127,255,0.07)",
-        "rgba(79,236,236,0.07)"
-    ],
+    "cSpell.language": "es"
 }
