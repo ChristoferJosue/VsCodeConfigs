@@ -6,16 +6,16 @@ Este repositorio es para almacenar y mostrar mis configuraciones de #Visual Stud
 
 
 
-#IndentRainbow
+# IndentRainbow
 
 La extensión de Indent rainbow te permite guiarte de manera visual en que nivel estan las llaves o el indentado, es util cuando trabajas con programas como Python que no utilizan ningun tipo de llaves para cerrar funciones, clases, metodos, o condicionales 
 
-##Estilo del indicador
-["indentRainbow.indicatorStyle": "light"]
+## Estilo del indicador
+[ "indentRainbow.indicatorStyle": "light" ]
 
 Es para que solo se pinte la linea y no todo el fondo 
 
-##Colores
+## Colores
 ["indentRainbow.colors": [
         "rgba(255,255,64,0.07)",
         "rgba(255,127,255,0.07)",
@@ -23,7 +23,7 @@ Es para que solo se pinte la linea y no todo el fondo
     ]]
 Aqui solo hay que jugar con los valores RGBA    
 
-##Grosor
+## Grosor
 para indicar el grosor de las lineas 
 
 ["indentRainbow.lightIndicatorStyleLineWidth": 2]
