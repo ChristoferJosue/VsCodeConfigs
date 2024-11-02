@@ -50,3 +50,32 @@ Solo hay que jugar con el valor en este caso 2
  ```
  "workbench.iconTheme": "material-icon-theme"
 ```
+
+# Activity bar 
+![alt text](image-4.png)
+
+Con este comando podras configurar el activity bar hacia abajo, logrando asi ganar mas espacio de trabajo 
+
+```
+    "workbench.activityBar.location": "bottom",
+
+
+```
+
+# Linea Brillante seleccionada 
+
+Con el siguiente comando se puede cambiar la forma 
+
+```
+ "editor.renderLineHighlight": "gutter"
+
+ ```
+
+Con el siguiente comando se puede cambiar el color  
+
+ ```
+    "workbench.colorCustomizations": {
+        "editor.lineHighlightBorder": "#bdef09"
+    }
+
+```
