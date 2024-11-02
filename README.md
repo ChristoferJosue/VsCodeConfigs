@@ -2,7 +2,7 @@
 Configuraciones del Visual Studio 
 
 
-Este repositorio es para almacenar y mostrar mis configuraciones de #Visual Studio code 
+Este repositorio es para almacenar y mostrar mis configuraciones de **Visual Studio code** 
 
 
 
@@ -38,3 +38,10 @@ para indicar el grosor de las lineas
 Solo hay que jugar con el valor en este caso 2 
 
 
+# Temas de Iconos
+![alt text](image.png)
+
+
+ ```
+ "workbench.iconTheme": "material-icon-theme"
+```
