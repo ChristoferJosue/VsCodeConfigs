@@ -9,6 +9,10 @@ Este repositorio es para almacenar y mostrar mis configuraciones de **Visual Stu
 
 
 
+# Atom One Dark
+```
+"workbench.colorTheme": "Atom One Dark"
+```
 # IndentRainbow
 
 ![alt text](Images/image-3.png)
