@@ -64,6 +64,8 @@ Con este comando podras configurar el activity bar hacia abajo, logrando asi gan
 
 # Linea Brillante seleccionada 
 
+![alt text](image-5.png)
+
 Con el siguiente comando se puede cambiar la forma 
 
 ```
