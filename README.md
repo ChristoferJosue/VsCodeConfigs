@@ -1,12 +1,17 @@
 # VsCodeConfigs
 Configuraciones del Visual Studio 
 
+![alt text](image-2.png)
+
+
 
 Este repositorio es para almacenar y mostrar mis configuraciones de **Visual Studio code** 
 
 
 
 # IndentRainbow
+
+![alt text](image-3.png)
 
 La extensión de Indent rainbow te permite guiarte de manera visual en que nivel estan las llaves o el indentado, es util cuando trabajas con programas como Python que no utilizan ningun tipo de llaves para cerrar funciones, clases, metodos, o condicionales 
 
