@@ -1,8 +1,8 @@
 # VsCodeConfigs
 Configuraciones del Visual Studio 
 
-![alt text](image-2.png)
 
+![alt text](Images/image-2.png)
 
 
 Este repositorio es para almacenar y mostrar mis configuraciones de **Visual Studio code** 
@@ -11,7 +11,7 @@ Este repositorio es para almacenar y mostrar mis configuraciones de **Visual Stu
 
 # IndentRainbow
 
-![alt text](image-3.png)
+![alt text](Images/image-3.png)
 
 La extensión de Indent rainbow te permite guiarte de manera visual en que nivel estan las llaves o el indentado, es util cuando trabajas con programas como Python que no utilizan ningun tipo de llaves para cerrar funciones, clases, metodos, o condicionales 
 
@@ -44,7 +44,7 @@ Solo hay que jugar con el valor en este caso 2
 
 
 # Temas de Iconos
-![alt text](image.png)
+![alt text](Images/image.png)
 
 
  ```
@@ -52,7 +52,7 @@ Solo hay que jugar con el valor en este caso 2
 ```
 
 # Activity bar 
-![alt text](image-4.png)
+![alt text](Images/image-4.png)
 
 Con este comando podras configurar el activity bar hacia abajo, logrando asi ganar mas espacio de trabajo 
 
@@ -64,7 +64,7 @@ Con este comando podras configurar el activity bar hacia abajo, logrando asi gan
 
 # Linea Brillante seleccionada 
 
-![alt text](image-5.png)
+![alt text](Images/image-5.png)
 
 Con el siguiente comando se puede cambiar la forma 
 
