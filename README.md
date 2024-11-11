@@ -95,6 +95,8 @@ con el siguiente comando logras que todo tu codigo quepa en tu pantalla no impor
 
 ## Activada
 ![alt text](Images/image-7.png)
+
+
 ``` 
  "editor.wordWrap": "on"
 ```
