@@ -85,3 +85,16 @@ Con el siguiente comando se puede cambiar el color
     }
 
 ```
+
+# WORDWRAP
+
+con el siguiente comando logras que todo tu codigo quepa en tu pantalla no importa el tamaño ni la resolución 
+
+## Desactivada
+![alt text](Images/image-6.png)
+
+## Activada
+![alt text](Images/image-7.png)
+``` 
+ "editor.wordWrap": "on"
+```
