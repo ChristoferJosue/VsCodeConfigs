@@ -4,7 +4,6 @@
     "terminal.external.linuxExec": "konsole",
     "c-cpp-compile-run.run-in-external-terminal": true,
     "java.debug.settings.console": "externalTerminal",
-    "redhat.telemetry.enabled": true,
     "liveServer.settings.donotVerifyTags": true,
     "liveServer.settings.donotShowInfoMsg": true,
     //quitar el minimap 
